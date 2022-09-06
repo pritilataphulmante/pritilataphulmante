@@ -12,7 +12,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a System engineer focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a System engineer. focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
 <h3>
