@@ -84,7 +84,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritilataphulmante&label=Profile%20views&color=0e75b6&style=flat" alt="pritilataphulmante" />
 <a href="https://github.com/pritilataphulmante?tab=followers"><img src="https://img.shields.io/github/followers/pritilataphulmante?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritilataphulmante&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="pritilataphulmante" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritilataphulmante&layout=compact&border_radius=0" alt="pritilataphulmante" height="139" width="600px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritilataphulmante&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="pritilataphulmante" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritilataphulmante&layout=compact&border_radius=0" alt="pritilataphulmante" height="139" width="400px" />
 </p>
 
 <br/>
